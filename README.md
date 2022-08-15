@@ -16,5 +16,5 @@ I'm a Software Engineer, designer and medical doctor. I'm passionate about shari
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifiokabasi-naomiu&show_icons=true&include_all_commits=true&hide_border=true" alt="Ifiokabasi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifiokabasi-naomi&langs_count=8&layout=compact&hide_border=true" alt="Ifiokabasi's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nigeriandjudju&show_icons=true&include_all_commits=true&hide_border=true" alt="Ifiokabasi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigeriandjudju&langs_count=8&layout=compact&hide_border=true" alt="Ifiokabasi's GitHub stats" /> |
 | ------------- | ------------- |
